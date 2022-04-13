@@ -1,0 +1,3 @@
+com.frank.springboot.log.Log=\
+ com.frank.springboot.log.Lf4jLog,\
+ com.frank.springboot.log.Logback
